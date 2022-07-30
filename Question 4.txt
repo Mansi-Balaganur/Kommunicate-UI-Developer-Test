@@ -1,1 +1,7 @@
+Online Mobile Recharge Application
+Android Development
+Apr 2021 - Jul 2021
 
+The user can recharge their mobile at anytime from anywhere. The online mobile recharge system is beneficial to both the admins and users. Using the online application, the admin can add new operators, tariff plans, offers and update or modify the existing tariff plans.
+
+https://github.com/Mansi-Balaganur/Online-mobile-recharge-application
